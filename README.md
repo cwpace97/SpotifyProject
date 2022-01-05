@@ -1,1 +1,2 @@
 # SpotifyProject
+This notebook is intended to take the output of the full spotify data request and then generate some useful and intersting data. It assumes that you have the Spotify output unzipped and added into this folder location as a folder named 'MyData'. Nothing else should be changed from the initial data pulled from Spotify. 
